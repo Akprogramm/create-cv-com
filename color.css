@@ -1,0 +1,28 @@
+.container{
+    border: 2px solid black;
+    background: red;
+    height: 65vh;
+    width: 15vw;
+    margin: auto;
+}
+
+img
+{
+  /* width: auto;  */
+  /* margin: 28px; */
+  /* width: 12em; */
+  height: 185px;
+  margin-top: 15px;
+  margin-left: 20px; 
+  border: 2px solid black;
+}
+
+.bio{
+  display: flex;
+  justify-content: center;
+}
+
+.clr{
+  background-color: black;
+  color: white;
+}
